@@ -32,8 +32,13 @@ Within the favorite list, users can delete individual movies as desired.
 
 How to Use Movie4kHub:
 Sign Up: Register for a new account via the Sign Up link in the navbar.
+
 Log In: Access your account using the Login link in the navbar.
+
 Search Movies: Utilize the search bar on the homepage to find movies. Results will appear as detailed movie cards.
+
 Add to Favorite List: Logged-in users can add movies to their favorite list directly from the movie cards.
+
 View Favorite List: Scroll to the bottom of the main page to see your favorite list. You can view details or remove movies from the list as needed.
+
 Enjoy curating your movie collection with Movie4kHub, and happy viewing!
